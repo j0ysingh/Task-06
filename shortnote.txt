@@ -1,0 +1,7 @@
+Task 6 – Host and Deploy a Web Application on AWS
+
+In this task, I deployed my portfolio website (HTML, CSS, JS) on AWS using S3 and CloudFront.
+I created an S3 bucket, uploaded my website files, and blocked public access for security.
+Then, I created a CloudFront distribution to serve the site securely and accessed it using the CloudFront URL.
+
+Outcome: Learned how to host a static website on AWS with CloudFront for secure, fast, and global content delivery.
